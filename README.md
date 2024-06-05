@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @databymir
-- 👀 I’m interested in machine learning and natural language processing
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning database management with SQL and machine learning models.
 - 💞️ I’m looking to collaborate on anything that will help me grow and evolve as a data scientist
 - 📫 How to reach me databymir@gmail.com
