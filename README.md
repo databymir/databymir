@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @databymir
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning database management with SQL and machine learning models.
+- 🌱 I’m currently studying applied machine learning and data science for business
 - 💞️ I’m looking to collaborate on anything that will help me grow and evolve as a data scientist
 - 📫 How to reach me databymir@gmail.com
 - 😄 Pronouns: she/her
