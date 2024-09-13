@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @databymir
 - 👀 I’m seeking a role that leverages my data science degree and my analysis-driven experience in the financial services industry
-- 🌱 I’m currently studying applied machine learning and data science for business
-- 💞️ I’m looking to collaborate on anything that will help me grow and evolve as a data scientist
-- 📫 How to reach me databymir@gmail.com
+- 🌱 I’m graduating with my M.S. in Data Science in October 2024
+- 💞️ I love engaging in cross-functional collaboration to drive positive growth
+- 📫 How to reach me: databymir@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Current Obsession: Small Batch Dessert Recipes
 
