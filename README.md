@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @databymir
-- 👀 I’m seeking a role that leverages my data science degree and my analysis-driven experience in the financial services industry
-- 🌱 I’m graduating with my M.S. in Data Science in October 2024
+- 👀 I’m passionate about using data to solve real-world problems—especially where tax strategy, forecasting, and financial insights intersect
+- 🌱 I earned my M.S. in Data Science in October 2024, building on years of experience in the financial services and accounting space
 - 💞️ I love engaging in cross-functional collaboration to drive positive growth
 - 📫 How to reach me: databymir@gmail.com
 - 😄 Pronouns: she/her
